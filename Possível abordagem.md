@@ -24,6 +24,14 @@ Total        |
 
 </center>
 
-6. "Contar a história" de cada região, ano a ano, como descrito no artigo **"Distribuição espaço temporal das queimadas no bioma cerrado (1999-2018)"** item **"Distribuição temporal dos focos de queimadas no bioma Cerrado"**. Neste ponto aparecem as estatísticas descritivas, histograma, correlação, etc.;
+6. "Contar a história" de cada região, ano a ano, como descrito no artigo **"Distribuição espaço temporal das queimadas no bioma cerrado (1999-2018)"** item **"Distribuição temporal dos focos de queimadas no bioma Cerrado"**. Neste ponto aparecem as estatísticas descritivas, histograma, correlação, etc. Perguntas a serem respondidas:
+
+* Média e Mediana das queimadas anuais (comparar esses resultados);
+* Desvio padrão e o que ele está representando (alta ou baixa variabilidade);
+* Discretização - Histograma de frequência de focos por região;
+* Identificar quais os anos que apresentaram quantidade anual de queimadas acima e abaixo do valor médio e o percentual correspondente;
+* Qual o(s) ano(s) com maior e com menor registro(s) de queimadas?;
+* Investigar possíveis causas para os resultados do item anterior;
+* 
 
 7. "Contar a história" de cada mês para as regiões como descrito no item anterior e juntar com os resultados do **item 3**. O artigo **"SUSCETIBILIDADE DO AMBIENTE A OCORRÊNCIAS DE QUEIMADAS SOB CONDIÇÕES ATUAIS E DE FUTURO"** possui um análise neste sentido mas com um foco diferente deste trabalho.
