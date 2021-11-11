@@ -1,5 +1,5 @@
 # Projeto SIDI
-# **Análise do Número de Focos de Queimadas por Regiões e Biomas Brasileiros entre os Anos de 2000 a 2021**
+# **Análise do Número de Focos de Queimadas por Regiões e Biomas Brasileiros entre os Anos de 2000 a 2020**
 
 # Equipe
 
