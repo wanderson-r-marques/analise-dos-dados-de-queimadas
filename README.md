@@ -1,5 +1,5 @@
 # Projeto SIDI
-# **Análise do Número de Focos de Queimadas por Regiões e Biomas Brasileiros entre os Anos de 2000 a 2020**
+# **Análise da Distribuição Temporal dos Focos de Queimadas por Regiões Brasileiras entre os Anos 2000 e 2020**
 
 # Equipe
 
@@ -21,3 +21,40 @@
  Os resultados deste trabalho demonstraram que a região Norte, por ser a mais extensa e a menos povoada, é a que possui maior participação na quantidade de focos de queimadas em todo o Brasil, 40,66% no período avaliado, sendo desta forma uma ótima fonte de estudos para trabalhos futuros. As regiões Nordeste e Centro-Oeste, 
  que responderam por aproximadamente 50% do número de queimadas no território nacional, também são excelentes opções para trabalhos futuros mais aprofundados. 
 
+# Instalação necessária
+
+* Python
+
+# Informações do repositório
+
+O repositório está dividido por região:
+
+* Região Norte
+
+    Analise_Centro_Norte.ipynb
+    
+    historico_regiao_norte.csv
+* Região Nordeste
+
+    Analise_Centro_Nordeste.ipynb
+    
+    historico_regiao_nordeste.csv
+* Região Sul
+
+    Analise_Centro_Sul.ipynb
+    
+    historico_regiao_sul.csv
+* Região Sudeste
+
+    Analise_Centro_Sudeste.ipynb
+    
+    historico_regiao_sudeste.csv
+* Região Centro Oeste
+
+    Analise_Centro_Oeste.ipynb
+    
+    historico_regiao_centro-oeste.csv
+* Análise consolidada todas as regiões
+
+    analise_geral_entre_regioes.ipynb
+    
