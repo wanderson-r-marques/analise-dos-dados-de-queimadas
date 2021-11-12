@@ -31,30 +31,30 @@ O repositório está dividido por região:
 
 * Região Norte
 
-    Analise_Centro_Norte.ipynb
+    Analise_Centro_Norte.ipynb (Análise estatística descritiva)
     
-    historico_regiao_norte.csv
+    historico_regiao_norte.csv (dataset da região)
 * Região Nordeste
 
-    Analise_Centro_Nordeste.ipynb
+    Analise_Centro_Nordeste.ipynb (Análise estatística descritiva)
     
-    historico_regiao_nordeste.csv
+    historico_regiao_nordeste.csv (dataset da região)
 * Região Sul
 
-    Analise_Centro_Sul.ipynb
+    Analise_Centro_Sul.ipynb (Análise estatística descritiva)
     
-    historico_regiao_sul.csv
+    historico_regiao_sul.csv (dataset da região)
 * Região Sudeste
 
-    Analise_Centro_Sudeste.ipynb
+    Analise_Centro_Sudeste.ipynb (Análise estatística descritiva)
     
-    historico_regiao_sudeste.csv
+    historico_regiao_sudeste.csv (dataset da região)
 * Região Centro Oeste
 
-    Analise_Centro_Oeste.ipynb
+    Analise_Centro_Oeste.ipynb (Análise estatística descritiva)
     
-    historico_regiao_centro-oeste.csv
+    historico_regiao_centro-oeste.csv (dataset da região)
 * Análise consolidada todas as regiões
 
-    analise_geral_entre_regioes.ipynb
+    analise_geral_entre_regioes.ipynb (Análise estatística descritiva)
     
