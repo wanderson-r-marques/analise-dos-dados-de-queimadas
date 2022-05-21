@@ -1,6 +1,8 @@
 # Projeto SIDI
 # **Análise da Distribuição Temporal dos Focos de Queimadas por Regiões Brasileiras entre os Anos 2000 e 2020**
 
+![](previews.png)
+
 # Equipe
 
  * David Soares
